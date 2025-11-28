@@ -18,7 +18,7 @@
 <!-- SOCIALS (with icons). Using style=flat so they feel minimal. -->
 <p align="center" style="margin-top: 0.8em;">
   <a href="https://aibread.com" style="text-decoration:none; margin:0 6px;">
-    <img alt="Website" src="https://img.shields.io/badge/Website-222?style=flat&labelColor=222&color=222&logo=https://github.com/user-attachments/assets/d9d7caf2-d2c4-45c8-b5cd-da25f2fc742a" />
+    <img alt="Website" src="https://img.shields.io/badge/Website-222?style=flat&logo=https://github.com/user-attachments/assets/d9d7caf2-d2c4-45c8-b5cd-da25f2fc742a" />
   </a>
   <a href="https://www.linkedin.com/company/bread-technologies" style="text-decoration:none; margin:0 6px;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />

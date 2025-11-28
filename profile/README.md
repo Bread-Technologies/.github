@@ -17,19 +17,20 @@
 <!-- SOCIALS (with icons). Using style=flat so they feel minimal. -->
 <p align="center" style="margin-top: 0.8em;">
 
-[![Website](https://img.shields.io/badge/Website-222?style=flat&logo=https://github.com/user-attachments/assets/d9d7caf2-d2c4-45c8-b5cd-da25f2fc742a)](https://aibread.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bread-technologies)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ai_bread)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/StT8dfNP9x)
+  [![Website](https://img.shields.io/badge/Website-222?style=flat&logo=https://github.com/user-attachments/assets/d9d7caf2-d2c4-45c8-b5cd-da25f2fc742a)](https://aibread.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bread-technologies)
+  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ai_bread)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/StT8dfNP9x)
 
 </p>
 
 <!-- LIVE download counts -->
 <p align="center">
-[![PyPI Downloads](https://img.shields.io/pypi/dm/aibread?logo=python&logoColor=white&label=PyPI&color=462c7a&style=flat)](https://pypi.org/project/aibread/)
-[![NPM SDK Downloads](https://img.shields.io/npm/dm/@aibread/sdk?logo=npm&logoColor=white&label=NPM%20SDK&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/sdk)
-[![NPM MCP Downloads](https://img.shields.io/npm/dm/@aibread/mcp?logo=npm&logoColor=white&label=NPM%20MCP&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/mcp)
-[![NPM BGIT Downloads](https://img.shields.io/npm/dm/@aibread/bgit?logo=npm&logoColor=white&label=NPM%20BGIT&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/bgit)
+  
+  [![PyPI Downloads](https://img.shields.io/pypi/dm/aibread?logo=python&logoColor=white&label=PyPI&color=462c7a&style=flat)](https://pypi.org/project/aibread/)
+  [![NPM SDK Downloads](https://img.shields.io/npm/dm/@aibread/sdk?logo=npm&logoColor=white&label=NPM%20SDK&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/sdk)
+  [![NPM MCP Downloads](https://img.shields.io/npm/dm/@aibread/mcp?logo=npm&logoColor=white&label=NPM%20MCP&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/mcp)
+  [![NPM BGIT Downloads](https://img.shields.io/npm/dm/@aibread/bgit?logo=npm&logoColor=white&label=NPM%20BGIT&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/bgit)
 
 </p>
 

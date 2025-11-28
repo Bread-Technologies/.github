@@ -1,4 +1,3 @@
-.github
 
 <!-- LOGO: Large, centered, with breathing room -->
 <p align="center">

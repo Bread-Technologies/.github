@@ -2,7 +2,7 @@
 
 <!-- LOGO: Large, centered, with breathing room -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eaa3269c-b78e-460e-90bc-7290acd37006" alt="bread logo" width="240" style="margin-bottom: 0.5em;" />
+  <img src="https://github.com/user-attachments/assets/eaa3269c-b78e-460e-90bc-7290acd37006" alt="bread logo" width="440" style="margin-bottom: 0.5em;" />
 </p>
 
 <!-- HEADLINE, on two lines for punch -->

@@ -30,7 +30,7 @@
 
   <!-- PyPI version badge -->
   <a href="https://pypi.org/project/aibread/">
-    <img src="https://img.shields.io/pypi/v/aibread?label=downloads&color=462c7a&style=flat-square"/>
+    <img src="https://img.shields.io/pypi/v/aibread?label=PyPi&color=462c7a&style=flat-square"/>
   </a>
   <!-- PyPI downloads: pepy.tech -->
   <a href="https://pepy.tech/projects/aibread">

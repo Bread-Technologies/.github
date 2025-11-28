@@ -4,36 +4,55 @@
   <img src="https://github.com/user-attachments/assets/885db1ea-2f9e-4a96-89f6-49369c735833" alt="bread logo" width="440" style="margin-bottom: 0.5em;" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eaa3269c-b78e-460e-90bc-7290acd37006" alt="bread logo" width="240" style="margin-bottom: 0.5em;">
+</p>
 
-<!-- HEADLINE, on two lines for punch -->
-<h1 align="center" style="font-size:2.6rem;font-weight:700;margin-bottom:0;">
-  <span style="letter-spacing:0.02em;">Machines that</span><br>
-  <span style="color:#E6B800; font-style:italic; font-weight:600; letter-spacing:0.01em;">learn like humans.</span>
+<h1 align="center" style="font-size:2.2rem;font-weight:700;margin-bottom:0;">
+  Machines that <span style="color:#E6B800; font-style:italic;">learn like humans.</span>
 </h1>
 
-<p align="center" style="font-size:1.16rem;color:#444;margin-top:0.7em;">
+<p align="center" style="font-size:1.10rem;color:#444;margin-top:0.6em;">
   <em>Open-source tools, infrastructure, and APIs for <b>composable LLM behavior</b> & adaptive intelligence.<br>
-  <span style="color:#767676;">Don't let your AI stagnate.<br>
+  <span style="color:#767676;">Don’t let your AI stagnate.<br>
   <b>Take control</b> with Bread.</span></em>
 </p>
 
-<!-- SOCIAL "BUTTONS": Elegant, minimal, no lines, aligned, consistent -->
-<p align="center" style="margin-top:1.1em;margin-bottom:0.5em;">
-  <a href="https://aibread.com" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.shields.io/static/v1?label=&message=Website&color=222&style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" height="30" style="vertical-align:middle;border-radius:6px;"/>
+<p align="center" style="margin: 1.2em 0;">
+  <a href="https://aibread.com" style="display:inline-block; margin:0 7px; text-decoration:none;">
+    <span style="display:inline-block; padding:10px 22px; background:#222; color:#fff; border-radius:6px; font-family:'Inter',sans-serif; font-weight:600; letter-spacing:0.04em; font-size:1rem;">WEBSITE</span>
   </a>
-  <a href="https://www.linkedin.com/company/bread-technologies" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=222&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="vertical-align:middle;border-radius:6px;"/>
+  <a href="https://www.linkedin.com/company/bread-technologies" style="display:inline-block; margin:0 7px; text-decoration:none;">
+    <span style="display:inline-block; padding:10px 22px; background:#222; color:#fff; border-radius:6px; font-family:'Inter',sans-serif; font-weight:600; letter-spacing:0.04em; font-size:1rem;">LINKEDIN</span>
   </a>
-  <a href="https://x.com/ai_bread" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.shields.io/static/v1?label=&message=X%20(Twitter)&color=222&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" style="vertical-align:middle;border-radius:6px;"/>
+  <a href="https://x.com/ai_bread" style="display:inline-block; margin:0 7px; text-decoration:none;">
+    <span style="display:inline-block; padding:10px 22px; background:#222; color:#fff; border-radius:6px; font-family:'Inter',sans-serif; font-weight:600; letter-spacing:0.04em; font-size:1rem;">X (TWITTER)</span>
   </a>
-  <a href="https://discord.gg/StT8dfNP9x" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.shields.io/static/v1?label=&message=Discord&color=222&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" style="vertical-align:middle;border-radius:6px;"/>
+  <a href="https://discord.gg/StT8dfNP9x" style="display:inline-block; margin:0 7px; text-decoration:none;">
+    <span style="display:inline-block; padding:10px 22px; background:#222; color:#fff; border-radius:6px; font-family:'Inter',sans-serif; font-weight:600; letter-spacing:0.04em; font-size:1rem;">DISCORD</span>
   </a>
 </p>
 
-<hr style="border:none;height:1px;background:linear-gradient(90deg,#E6B80022,#eee,#E6B80022);margin:2em 0 2em 0;" />
+<p align="center">
+  <!-- PyPI badge -->
+  <a href="https://pypi.org/project/aibread/">
+    <img alt="PyPI" src="https://img.shields.io/pypi/v/aibread?label=PyPI&color=462c7a&style=flat-square"/>
+  </a>
+  <a href="https://pepy.tech/projects/aibread">
+    <img alt="PyPI - Downloads" src="https://static.pepy.tech/badge/aibread"/>
+  </a>
+  <a href="https://www.npmjs.com/package/@aibread/sdk">
+    <img alt="npm" src="https://img.shields.io/npm/v/@aibread/sdk?label=NPM%20SDK&color=cb3837&style=flat-square"/>
+  </a>
+  <a href="https://www.npmjs.com/package/@aibread/mcp">
+    <img alt="npm" src="https://img.shields.io/npm/v/@aibread/mcp?label=NPM%20MCP&color=cb3837&style=flat-square"/>
+  </a>
+  <a href="https://www.npmjs.com/package/@aibread/bgit">
+    <img alt="npm" src="https://img.shields.io/npm/v/@aibread/bgit?label=NPM%20BGIT&color=cb3837&style=flat-square"/>
+  </a>
+</p>
+
+<hr style="border:none;height:1px;background:linear-gradient(90deg,#E6B80022,#eee,#E6B80022);margin:2em 0 2em 0;">
 
 ## 🚀 Mission
 

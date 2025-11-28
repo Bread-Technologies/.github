@@ -9,7 +9,7 @@
 </h1>
 <p align="center">
   <em>
-    Open-source tools, infrastructure, and APIs for <b>composable LLM behavior</b> & adaptive intelligence.<br>
+    Surgical, composable, weight-level edits to your LLM's behavior using everyday natural language.<br>
     Don’t let your AI stagnate.<br>
     <b>Take control with Bread.</b>
   </em>
@@ -55,7 +55,7 @@
 
 ## 🚀 Mission
 
-> **Bread** gives people—not oligopolies—control over AI.
+> **Bread** gives people greater control over AI.
 
 Today’s language models are static, one-size-fits-all, and centralized. We’re building open tools to break that paradigm. Bread delivers cloud and open-source systems enabling **precise, versioned, and composable** updates—at the weight level—of LLMs. You can teach, refine, or update a model just by describing what you want, in natural language, as easily as correcting a friend.
 

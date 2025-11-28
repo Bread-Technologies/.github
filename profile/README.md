@@ -1,7 +1,7 @@
 
 <!-- LOGO: Large, centered, with breathing room -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/885db1ea-2f9e-4a96-89f6-49369c735833" alt="bread logo" width="440" style="margin-bottom: 0.5em;" />
+  <img src="https://github.com/user-attachments/assets/76d9cf35-4caf-443b-87ea-bfc983e3f0fd" alt="bread logo" width="440" style="margin-bottom: 0.5em;" />
 </p>
 
 

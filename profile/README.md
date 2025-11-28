@@ -31,32 +31,25 @@
   </a>
 </p>
 
-<!-- SPACER -->
-<p align="center">&nbsp;</p>
 
 <!-- ONE badge per package: label + dynamic download count -->
 <p align="center">
-
-  <!-- PyPI (monthly downloads via pepy API) -->
-  <a href="https://pypi.org/project/aibread/" style="text-decoration:none; margin:0 6px;">
-    <img alt="PyPI downloads" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpepy.tech%2Fapi%2Fprojects%2Faibread&query=%24.downloads.last_month&label=PyPI&suffix=%2Fmonth&logo=python&logoColor=white&color=3775A9&style=flat">
+<!-- PACKAGE BADGES: ONE per, with icon & download count, all flat style, spaced with a single space between them -->
+<p align="center">
+  <a href="https://pypi.org/project/aibread/">
+    <img alt="PyPI - Downloads" src="https://img.shields.io/badge/PyPI-3.2k%20downloads-462c7a?logo=python&logoColor=white&style=flat"/>
   </a>
-
-  <!-- npm SDK (monthly) -->
-  <a href="https://www.npmjs.com/package/@aibread/sdk" style="text-decoration:none; margin:0 6px;">
-    <img alt="SDK downloads" src="https://img.shields.io/npm/dm/%40aibread%2Fsdk?label=SDK&logo=npm&logoColor=white&color=cb3837&style=flat">
+  <p></p>
+  <a href="https://www.npmjs.com/package/@aibread/sdk">
+    <img alt="NPM SDK - Downloads" src="https://img.shields.io/badge/NPM%20SDK-2.1k%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
   </a>
-
-  <!-- npm MCP (monthly) -->
-  <a href="https://www.npmjs.com/package/@aibread/mcp" style="text-decoration:none; margin:0 6px;">
-    <img alt="MCP downloads" src="https://img.shields.io/npm/dm/%40aibread%2Fmcp?label=MCP&logo=npm&logoColor=white&color=cb3837&style=flat">
+  <a href="https://www.npmjs.com/package/@aibread/mcp">
+    <img alt="NPM MCP - Downloads" src="https://img.shields.io/badge/NPM%20MCP-1.9k%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
   </a>
-
-  <!-- npm BGIT (monthly) -->
-  <a href="https://www.npmjs.com/package/@aibread/bgit" style="text-decoration:none; margin:0 6px;">
-    <img alt="BGIT downloads" src="https://img.shields.io/npm/dm/%40aibread%2Fbgit?label=BGIT&logo=npm&logoColor=white&color=cb3837&style=flat">
+  <a href="https://www.npmjs.com/package/@aibread/bgit">
+    <img alt="NPM BGIT - Downloads" src="https://img.shields.io/badge/NPM%20BGIT-950%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
   </a>
-
+</p>
 </p>
 
 <hr style="border:none; height:1px; background: linear-gradient(90deg,#E6B80022,#eee,#E6B80022); margin:2em 0 2em 0;">

@@ -15,14 +15,14 @@
 </p>
 
 <!-- SOCIALS (with icons). Using style=flat so they feel minimal. -->
-<p align="center" style="margin-top: 0.8em;">
+<div align="center" style="margin-top: 0.8em;">
 
   [![Website](https://img.shields.io/badge/Website-222?style=flat&logo=https://github.com/user-attachments/assets/d9d7caf2-d2c4-45c8-b5cd-da25f2fc742a)](https://aibread.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bread-technologies)
   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ai_bread)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/StT8dfNP9x)
 
-</p>
+</div>
 
 <!-- LIVE download counts -->
 <p align="center">

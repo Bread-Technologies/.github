@@ -14,7 +14,6 @@
     <b>Take control with Bread.</b>
   </em>
 </p>
-<img width="1024" height="1024" alt="1f35e" src="https://github.com/user-attachments/assets/d9d7caf2-d2c4-45c8-b5cd-da25f2fc742a" />
 
 <!-- SOCIALS (with icons). Using style=flat so they feel minimal. -->
 <p align="center" style="margin-top: 0.8em;">

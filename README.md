@@ -1,8 +1,8 @@
 # .github
 
+![light](https://github.com/user-attachments/assets/eaa3269c-b78e-460e-90bc-7290acd37006)
 <p align="center">
   <br>
-  ![light](https://github.com/user-attachments/assets/eaa3269c-b78e-460e-90bc-7290acd37006)
   <svg width="140" height="40" viewBox="0 0 140 40" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Bread icon (original SVG, scaled and positioned) -->
   <g transform="scale(0.035) translate(2400, 20)">

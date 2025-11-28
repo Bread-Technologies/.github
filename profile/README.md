@@ -4,9 +4,6 @@
   <img src="https://github.com/user-attachments/assets/885db1ea-2f9e-4a96-89f6-49369c735833" alt="bread logo" width="440" style="margin-bottom: 0.5em;" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/eaa3269c-b78e-460e-90bc-7290acd37006" alt="bread logo" width="240" style="margin-bottom: 0.5em;">
-</p>
 
 <h1 align="center" style="font-size:2.2rem;font-weight:700;margin-bottom:0;">
   Machines that <span style="color:#E6B800; font-style:italic;">learn like humans.</span>

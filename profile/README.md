@@ -25,14 +25,14 @@
 </div>
 
 <!-- LIVE download counts -->
-<p align="center">
+<div align="center">
   
   [![PyPI Downloads](https://img.shields.io/pypi/dm/aibread?logo=python&logoColor=white&label=PyPI&color=462c7a&style=flat)](https://pypi.org/project/aibread/)
   [![NPM SDK Downloads](https://img.shields.io/npm/dm/@aibread/sdk?logo=npm&logoColor=white&label=NPM%20SDK&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/sdk)
   [![NPM MCP Downloads](https://img.shields.io/npm/dm/@aibread/mcp?logo=npm&logoColor=white&label=NPM%20MCP&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/mcp)
   [![NPM BGIT Downloads](https://img.shields.io/npm/dm/@aibread/bgit?logo=npm&logoColor=white&label=NPM%20BGIT&color=cb3837&style=flat)](https://www.npmjs.com/package/@aibread/bgit)
 
-</p>
+</div>
 
 
 <hr style="border:none; height:1px; background: linear-gradient(90deg,#E6B80022,#eee,#E6B80022); margin:2em 0 2em 0;">

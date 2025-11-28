@@ -4,66 +4,53 @@
   <img src="https://github.com/user-attachments/assets/76d9cf35-4caf-443b-87ea-bfc983e3f0fd" alt="bread logo" width="440" style="margin-bottom: 0.5em;" />
 </p>
 
-
-<!-- HEADLINE, centered, two-tier -->
-<h1 align="center" style="font-size:2.3rem;font-weight:700;margin-bottom:0;">
-  Machines that <span style="color:#E6B800; font-style:italic;">learn like humans.</span>
+<h1 align="center">
+  Machines that <span style="color:#E6B800;">learn like humans.</span>
 </h1>
-<p align="center" style="font-size:1.04rem; color:#444;">
+<p align="center">
   <em>
     Open-source tools, infrastructure, and APIs for <b>composable LLM behavior</b> & adaptive intelligence.<br>
-    Don't let your AI stagnate.<br>
+    Don’t let your AI stagnate.<br>
     <b>Take control with Bread.</b>
   </em>
 </p>
 
-<!-- SOCIAL LINKS (HTML, not badges) -->
-<p align="center" style="margin-top: 1.2em;">
-  <a href="https://aibread.com" style="text-decoration:none; font-weight:600; color:#222; margin:0 10px;">Website</a> |
-  <a href="https://www.linkedin.com/company/bread-technologies" style="text-decoration:none; font-weight:600; color:#222; margin:0 10px;">LinkedIn</a> |
-  <a href="https://x.com/ai_bread" style="text-decoration:none; font-weight:600; color:#222; margin:0 10px;">X (Twitter)</a> |
-  <a href="https://discord.gg/StT8dfNP9x" style="text-decoration:none; font-weight:600; color:#222; margin:0 10px;">Discord</a>
+<!-- SOCIALS: Markdown links with icons (via shields) -->
+<p align="center">
+  <a href="https://aibread.com">
+    <img src="https://img.shields.io/badge/Website-222?style=flat&logo=Google-Chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/company/bread-technologies">
+    <img src="https://img.shields.io/badge/LinkedIn-222?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ai_bread">
+    <img src="https://img.shields.io/badge/X(Twitter)-222?style=flat&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://discord.gg/StT8dfNP9x">
+    <img src="https://img.shields.io/badge/Discord-222?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
-<!-- PYPI / NPM PACKAGE BADGES: STACKED, NO INLINE WEIRDNESS -->
+<!-- SPACER -->
+<p align="center">&nbsp;</p>
+
+<!-- PACKAGE BADGES: ONE per, with icon & download count, all flat style, spaced with a single space between them -->
 <p align="center">
-
-  <!-- PyPI version badge -->
   <a href="https://pypi.org/project/aibread/">
-    <img src="https://img.shields.io/pypi/v/aibread?label=PyPi&color=462c7a&style=flat-square"/>
-  </a>
-  <!-- PyPI downloads: pepy.tech -->
-  <a href="https://pepy.tech/projects/aibread">
-    <img src="https://static.pepy.tech/badge/aibread"/>
-  </a>
-
-  <!-- NPM SDK version and downloads -->
-  <a href="https://www.npmjs.com/package/@aibread/sdk">
-    <img src="https://img.shields.io/npm/v/@aibread/sdk?label=NPM%20SDK&color=cb3837&style=flat-square"/>
+    <img alt="PyPI - Downloads" src="https://img.shields.io/badge/PyPI-3.2k%20downloads-462c7a?logo=python&logoColor=white&style=flat"/>
   </a>
   <a href="https://www.npmjs.com/package/@aibread/sdk">
-    <img src="https://img.shields.io/npm/dm/@aibread/sdk?label=downloads&color=cb3837&style=flat-square"/>
-  </a>
-
-  <!-- NPM MCP version and downloads -->
-  <a href="https://www.npmjs.com/package/@aibread/mcp">
-    <img src="https://img.shields.io/npm/v/@aibread/mcp?label=NPM%20MCP&color=cb3837&style=flat-square"/>
+    <img alt="NPM SDK - Downloads" src="https://img.shields.io/badge/NPM%20SDK-2.1k%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
   </a>
   <a href="https://www.npmjs.com/package/@aibread/mcp">
-    <img src="https://img.shields.io/npm/dm/@aibread/mcp?label=downloads&color=cb3837&style=flat-square"/>
-  </a>
-
-  <!-- NPM BGIT version and downloads -->
-  <a href="https://www.npmjs.com/package/@aibread/bgit">
-    <img src="https://img.shields.io/npm/v/@aibread/bgit?label=NPM%20BGIT&color=cb3837&style=flat-square"/>
+    <img alt="NPM MCP - Downloads" src="https://img.shields.io/badge/NPM%20MCP-1.9k%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
   </a>
   <a href="https://www.npmjs.com/package/@aibread/bgit">
-    <img src="https://img.shields.io/npm/dm/@aibread/bgit?label=downloads&color=cb3837&style=flat-square"/>
+    <img alt="NPM BGIT - Downloads" src="https://img.shields.io/badge/NPM%20BGIT-950%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
   </a>
 </p>
 
 <hr style="border:none; height:1px; background: linear-gradient(90deg,#E6B80022,#eee,#E6B80022); margin:2em 0 2em 0;">
-
 ## 🚀 Mission
 
 > **Bread** gives people—not oligopolies—control over AI.

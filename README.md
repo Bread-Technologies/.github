@@ -1,4 +1,4 @@
-![light](https://github.com/user-attachments/assets/195bf558-3be3-4738-abe8-cd5fcb87c71e)# .github
+.github
 
 <!-- LOGO: Large, centered, with breathing room -->
 <p align="center">

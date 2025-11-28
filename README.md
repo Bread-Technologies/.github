@@ -35,8 +35,6 @@
 
 <hr style="border:none;height:1px;background:linear-gradient(90deg,#E6B80022,#eee,#E6B80022);margin:2em 0 2em 0;" />
 
----
-
 ## 🚀 Mission
 
 > **Bread** gives people—not oligopolies—control over AI.

@@ -39,7 +39,7 @@
   <a href="https://pypi.org/project/aibread/">
     <img alt="PyPI - Downloads" src="https://img.shields.io/badge/PyPI-3.2k%20downloads-462c7a?logo=python&logoColor=white&style=flat"/>
   </a>
-  <p></p>
+  &nbsp;
   <a href="https://www.npmjs.com/package/@aibread/sdk">
     <img alt="NPM SDK - Downloads" src="https://img.shields.io/badge/NPM%20SDK-2.1k%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
   </a>

@@ -5,51 +5,64 @@
 </p>
 
 
-<h1 align="center" style="font-size:2.2rem;font-weight:700;margin-bottom:0;">
+<!-- HEADLINE, centered, two-tier -->
+<h1 align="center" style="font-size:2.3rem;font-weight:700;margin-bottom:0;">
   Machines that <span style="color:#E6B800; font-style:italic;">learn like humans.</span>
 </h1>
-
-<p align="center" style="font-size:1.10rem;color:#444;margin-top:0.6em;">
-  <em>Open-source tools, infrastructure, and APIs for <b>composable LLM behavior</b> & adaptive intelligence.<br>
-  <span style="color:#767676;">Don’t let your AI stagnate.<br>
-  <b>Take control</b> with Bread.</span></em>
+<p align="center" style="font-size:1.04rem; color:#444;">
+  <em>
+    Open-source tools, infrastructure, and APIs for <b>composable LLM behavior</b> & adaptive intelligence.<br>
+    Don't let your AI stagnate.<br>
+    <b>Take control with Bread.</b>
+  </em>
 </p>
 
-<p align="center" style="margin: 1.2em 0;">
-  <a href="https://aibread.com" style="display:inline-block; margin:0 7px; text-decoration:none;">
-    <span style="display:inline-block; padding:10px 22px; background:#222; color:#fff; border-radius:6px; font-family:'Inter',sans-serif; font-weight:600; letter-spacing:0.04em; font-size:1rem;">WEBSITE</span>
-  </a>
-  <a href="https://www.linkedin.com/company/bread-technologies" style="display:inline-block; margin:0 7px; text-decoration:none;">
-    <span style="display:inline-block; padding:10px 22px; background:#222; color:#fff; border-radius:6px; font-family:'Inter',sans-serif; font-weight:600; letter-spacing:0.04em; font-size:1rem;">LINKEDIN</span>
-  </a>
-  <a href="https://x.com/ai_bread" style="display:inline-block; margin:0 7px; text-decoration:none;">
-    <span style="display:inline-block; padding:10px 22px; background:#222; color:#fff; border-radius:6px; font-family:'Inter',sans-serif; font-weight:600; letter-spacing:0.04em; font-size:1rem;">X (TWITTER)</span>
-  </a>
-  <a href="https://discord.gg/StT8dfNP9x" style="display:inline-block; margin:0 7px; text-decoration:none;">
-    <span style="display:inline-block; padding:10px 22px; background:#222; color:#fff; border-radius:6px; font-family:'Inter',sans-serif; font-weight:600; letter-spacing:0.04em; font-size:1rem;">DISCORD</span>
-  </a>
+<!-- SOCIAL LINKS (HTML, not badges) -->
+<p align="center" style="margin-top: 1.2em;">
+  <a href="https://aibread.com" style="text-decoration:none; font-weight:600; color:#222; margin:0 10px;">Website</a> |
+  <a href="https://www.linkedin.com/company/bread-technologies" style="text-decoration:none; font-weight:600; color:#222; margin:0 10px;">LinkedIn</a> |
+  <a href="https://x.com/ai_bread" style="text-decoration:none; font-weight:600; color:#222; margin:0 10px;">X (Twitter)</a> |
+  <a href="https://discord.gg/StT8dfNP9x" style="text-decoration:none; font-weight:600; color:#222; margin:0 10px;">Discord</a>
 </p>
 
+<!-- PYPI / NPM PACKAGE BADGES: STACKED, NO INLINE WEIRDNESS -->
 <p align="center">
-  <!-- PyPI badge -->
+
+  <!-- PyPI version badge -->
   <a href="https://pypi.org/project/aibread/">
-    <img alt="PyPI" src="https://img.shields.io/pypi/v/aibread?label=PyPI&color=462c7a&style=flat-square"/>
+    <img src="https://img.shields.io/pypi/v/aibread?label=PyPI&color=462c7a&style=flat-square"/>
   </a>
+  <!-- PyPI downloads: pepy.tech -->
   <a href="https://pepy.tech/projects/aibread">
-    <img alt="PyPI - Downloads" src="https://static.pepy.tech/badge/aibread"/>
+    <img src="https://static.pepy.tech/badge/aibread"/>
+  </a>
+
+  <!-- NPM SDK version and downloads -->
+  <a href="https://www.npmjs.com/package/@aibread/sdk">
+    <img src="https://img.shields.io/npm/v/@aibread/sdk?label=NPM%20SDK&color=cb3837&style=flat-square"/>
   </a>
   <a href="https://www.npmjs.com/package/@aibread/sdk">
-    <img alt="npm" src="https://img.shields.io/npm/v/@aibread/sdk?label=NPM%20SDK&color=cb3837&style=flat-square"/>
+    <img src="https://img.shields.io/npm/dm/@aibread/sdk?label=downloads&color=cb3837&style=flat-square"/>
+  </a>
+
+  <!-- NPM MCP version and downloads -->
+  <a href="https://www.npmjs.com/package/@aibread/mcp">
+    <img src="https://img.shields.io/npm/v/@aibread/mcp?label=NPM%20MCP&color=cb3837&style=flat-square"/>
   </a>
   <a href="https://www.npmjs.com/package/@aibread/mcp">
-    <img alt="npm" src="https://img.shields.io/npm/v/@aibread/mcp?label=NPM%20MCP&color=cb3837&style=flat-square"/>
+    <img src="https://img.shields.io/npm/dm/@aibread/mcp?label=downloads&color=cb3837&style=flat-square"/>
+  </a>
+
+  <!-- NPM BGIT version and downloads -->
+  <a href="https://www.npmjs.com/package/@aibread/bgit">
+    <img src="https://img.shields.io/npm/v/@aibread/bgit?label=NPM%20BGIT&color=cb3837&style=flat-square"/>
   </a>
   <a href="https://www.npmjs.com/package/@aibread/bgit">
-    <img alt="npm" src="https://img.shields.io/npm/v/@aibread/bgit?label=NPM%20BGIT&color=cb3837&style=flat-square"/>
+    <img src="https://img.shields.io/npm/dm/@aibread/bgit?label=downloads&color=cb3837&style=flat-square"/>
   </a>
 </p>
 
-<hr style="border:none;height:1px;background:linear-gradient(90deg,#E6B80022,#eee,#E6B80022);margin:2em 0 2em 0;">
+<hr style="border:none; height:1px; background: linear-gradient(90deg,#E6B80022,#eee,#E6B80022); margin:2em 0 2em 0;">
 
 ## 🚀 Mission
 

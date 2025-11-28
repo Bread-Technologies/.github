@@ -50,6 +50,9 @@
 </p>
 </p>
 
+[![PyPI - Downloads](https://img.shields.io/badge/PyPI-3.2k%20downloads-462c7a?logo=python&logoColor=white&style=flat)](https://pypi.org/project/aibread/)
+
+
 <hr style="border:none; height:1px; background: linear-gradient(90deg,#E6B80022,#eee,#E6B80022); margin:2em 0 2em 0;">
 
 ## 🚀 Mission

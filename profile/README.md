@@ -15,42 +15,52 @@
   </em>
 </p>
 
-<!-- SOCIALS: Markdown links with icons (via shields) -->
-<p align="center">
-  <a href="https://aibread.com">
-    <img src="https://img.shields.io/badge/Website-222?style=flat&logo=Google-Chrome&logoColor=white" alt="Website" />
+<!-- SOCIALS (with icons). Using style=flat so they feel minimal. -->
+<p align="center" style="margin-top: 0.8em;">
+  <a href="https://aibread.com" style="text-decoration:none; margin:0 6px;">
+    <img alt="Website" src="https://img.shields.io/badge/%F0%9F%8D%9E%20Website-222?style=flat&labelColor=222&color=222" />
   </a>
-  <a href="https://www.linkedin.com/company/bread-technologies">
-    <img src="https://img.shields.io/badge/LinkedIn-222?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/company/bread-technologies" style="text-decoration:none; margin:0 6px;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/ai_bread">
-    <img src="https://img.shields.io/badge/X(Twitter)-222?style=flat&logo=twitter" alt="Twitter" />
+  <a href="https://x.com/ai_bread" style="text-decoration:none; margin:0 6px;">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
-  <a href="https://discord.gg/StT8dfNP9x">
-    <img src="https://img.shields.io/badge/Discord-222?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.gg/StT8dfNP9x" style="text-decoration:none; margin:0 6px;">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
 
 <!-- SPACER -->
 <p align="center">&nbsp;</p>
 
-<!-- PACKAGE BADGES: ONE per, with icon & download count, all flat style, spaced with a single space between them -->
+<!-- ONE badge per package: label + dynamic download count -->
 <p align="center">
-  <a href="https://pypi.org/project/aibread/">
-    <img alt="PyPI - Downloads" src="https://img.shields.io/badge/PyPI-3.2k%20downloads-462c7a?logo=python&logoColor=white&style=flat"/>
+
+  <!-- PyPI (monthly downloads via pepy API) -->
+  <a href="https://pypi.org/project/aibread/" style="text-decoration:none; margin:0 6px;">
+    <img alt="PyPI downloads" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpepy.tech%2Fapi%2Fprojects%2Faibread&query=%24.downloads.last_month&label=PyPI&suffix=%2Fmonth&logo=python&logoColor=white&color=3775A9&style=flat">
   </a>
-  <a href="https://www.npmjs.com/package/@aibread/sdk">
-    <img alt="NPM SDK - Downloads" src="https://img.shields.io/badge/NPM%20SDK-2.1k%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
+
+  <!-- npm SDK (monthly) -->
+  <a href="https://www.npmjs.com/package/@aibread/sdk" style="text-decoration:none; margin:0 6px;">
+    <img alt="SDK downloads" src="https://img.shields.io/npm/dm/%40aibread%2Fsdk?label=SDK&logo=npm&logoColor=white&color=cb3837&style=flat">
   </a>
-  <a href="https://www.npmjs.com/package/@aibread/mcp">
-    <img alt="NPM MCP - Downloads" src="https://img.shields.io/badge/NPM%20MCP-1.9k%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
+
+  <!-- npm MCP (monthly) -->
+  <a href="https://www.npmjs.com/package/@aibread/mcp" style="text-decoration:none; margin:0 6px;">
+    <img alt="MCP downloads" src="https://img.shields.io/npm/dm/%40aibread%2Fmcp?label=MCP&logo=npm&logoColor=white&color=cb3837&style=flat">
   </a>
-  <a href="https://www.npmjs.com/package/@aibread/bgit">
-    <img alt="NPM BGIT - Downloads" src="https://img.shields.io/badge/NPM%20BGIT-950%20downloads-cb3837?logo=npm&logoColor=white&style=flat"/>
+
+  <!-- npm BGIT (monthly) -->
+  <a href="https://www.npmjs.com/package/@aibread/bgit" style="text-decoration:none; margin:0 6px;">
+    <img alt="BGIT downloads" src="https://img.shields.io/npm/dm/%40aibread%2Fbgit?label=BGIT&logo=npm&logoColor=white&color=cb3837&style=flat">
   </a>
+
 </p>
 
 <hr style="border:none; height:1px; background: linear-gradient(90deg,#E6B80022,#eee,#E6B80022); margin:2em 0 2em 0;">
+
 ## 🚀 Mission
 
 > **Bread** gives people—not oligopolies—control over AI.

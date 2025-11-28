@@ -10,7 +10,6 @@
 <p align="center">
   <em>
     Surgical, composable, weight-level edits to your LLM's behavior using everyday natural language.<br>
-    Don’t let your AI stagnate.<br>
     <b>Take control with Bread.</b>
   </em>
 </p>

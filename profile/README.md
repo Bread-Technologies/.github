@@ -37,60 +37,28 @@
 
 <hr style="border:none; height:1px; background: linear-gradient(90deg,#E6B80022,#eee,#E6B80022); margin:2em 0 2em 0;">
 
-## 🚀 Mission
+## 🚀 About
 
-> **Bread** gives people greater control over AI.
+> Our mission is to give **you** greater control over your AI.
 
-Today’s language models are static, one-size-fits-all, and centralized. We’re building open tools to break that paradigm. Bread delivers cloud and open-source systems enabling **precise, versioned, and composable** updates—at the weight level—of LLMs. You can teach, refine, or update a model just by describing what you want, in natural language, as easily as correcting a friend.
+Today’s language models are static, one-size-fits-all, and centralized. We’re building tools to break that paradigm. Bread delivers cloud and open-source systems enabling **precise, versioned, and composable** updates—at the weight level—of LLMs. You can teach, refine, or update a model just by describing what you want, in natural language, as easily as correcting a friend.
 
 **Why?**
-- Machine learning shouldn’t be locked behind a PhD.
+- You shouldn't need a PhD in ML to train an AI.
 - You shouldn’t need specialist teams or corporate buy-in to adjust model behavior.
 - Everyone should be able to build, adapt, and own intelligence that works their way.
 
-We’re fundamentally against centralization of AI control, and we believe adaptive, iterative teaching—by *demonstration*, *question/answer*, and *practice with feedback*—makes models both more useful and more human-aligned.
-
-> **No “AI priesthood.” No static black-boxes.** Only intelligence you can *teach*.
+We believe adaptive, iterative teaching—by *demonstration*, *question/answer*, and *practice with feedback*—makes models both more useful and more human-aligned.
 
 <br/>
 
-## 🥖 What’s in this Org? <!-- A little fun emoji goes a long way for readability -->
+## Where to start?
 
-- **⚡️ [aibread SDK](https://libraries.io/npm/@aibread%2Fsdk)**  
-  *Official JavaScript/TypeScript SDK to interact with our cloud API and run prompt bakes. Composable edits, dependency tracking, and more.*
-
-- **🗃️ [aibread·mcp](https://libraries.io/npm/@aibread%2Fmcp)**  
-  *“Multipurpose Control Panel” microserver. User-friendly abstraction around the SDK for orchestrating model edits, chaining bakes, and collaborative workflows.*
-
-- **🌱 [aibread·bgit](https://libraries.io/npm/@aibread%2Fbgit)**  
-  *Git-style “branch & merge” versioning for machine learning artifacts. Bring order and clarity to LLM weight changes.*
-
-- **🐍 [PyPI: aibread](https://libraries.io/pypi/aibread)**  
-  *Python tools for editing and composing model behaviors (early availability, more OSS tools “coming soon”).*
+1. **[Create an account](https://aibread.com/login)** and get an API key
+2. **[Bake your first model](https://github.com/Bread-Technologies/Bread-SDK-Bake-Repo)** with our SDK
+3. **[Read our documentation](https://docs.bread.com.ai)** to learn more
 
 <br/>
-
-## 🌐 Links
-
-- [aibread.com](https://aibread.com)
-- [LinkedIn](https://www.linkedin.com/company/bread-technologies)
-- [PyPI: aibread](https://libraries.io/pypi/aibread)
-- [npm: @aibread/sdk](https://libraries.io/npm/@aibread%2Fsdk)
-- [npm: @aibread/mcp](https://libraries.io/npm/@aibread%2Fmcp)
-- [npm: @aibread/bgit](https://libraries.io/npm/@aibread%2Fbgit)
-- [X (Twitter)](https://x.com/ai_bread)
-- [Discord](https://discord.gg/StT8dfNP9x)
-
-<br/>
-
-## 💡 Key Features
-
-- **Composable LLM “baking”:** Stack, chain, and recompose model edits as easily as merging branches.
-- **Natural language weight editing:** Edit and update model behavior using instructions and feedback, no deep learning expertise needed.
-- **Open and modular:** Connect with our cloud or (soon) self-host open tools for surgical model versioning.
-- **Decentralized control:** Bread is fundamentally committed to empowering everyone to adapt, teach, and own AI.
-
-> 💬 *Want open-source libraries? More OSS tools are coming soon—stay tuned!*
 
 ---
 
@@ -98,7 +66,7 @@ We’re fundamentally against centralization of AI control, and we believe adapt
 
 - [ ] 🔜 More open-source tools & self-hosted options (“coming soon”)
 - [ ] Improved docs, guides, and walkthroughs (**contributions welcome!**)
-- [ ] Community bakes, bake sharing, and collaborative workflows
+- [ ] Community bakes, marketplace, and collaborative workflows
 
 ---
 

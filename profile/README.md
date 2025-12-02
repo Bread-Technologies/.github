@@ -1,7 +1,12 @@
-
-<!-- LOGO: Large, centered, with breathing room -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76d9cf35-4caf-443b-87ea-bfc983e3f0fd" alt="bread logo" width="440" style="margin-bottom: 0.5em;" />
+  <picture>
+    <!-- Dark mode -->
+    <source srcset="https://github.com/user-attachments/assets/8a582240-c4db-4b0f-9f2c-108fa76ca5d2" media="(prefers-color-scheme: dark)" />
+    <!-- Light mode -->
+    <source srcset="https://github.com/user-attachments/assets/76d9cf35-4caf-443b-87ea-bfc983e3f0fd" media="(prefers-color-scheme: light)" />
+    <!-- Fallback (light mode) -->
+    <img src="https://github.com/user-attachments/assets/76d9cf35-4caf-443b-87ea-bfc983e3f0fd" alt="Bread logo" width="440" />
+  </picture>
 </p>
 
 <h1 align="center">

@@ -46,7 +46,7 @@
 
 > Our mission is to give **you** greater control over your AI.
 
-Today’s language models are static, one-size-fits-all, and centralized. We’re building tools to break that paradigm. Bread delivers cloud and open-source systems enabling **precise, versioned, and composable** updates—at the weight level—of LLMs. You can teach, refine, or update a model just by describing what you want, in natural language, as easily as correcting a friend.
+Today’s language models are static, one-size-fits-all, and centralized. We’re building tools to break that paradigm. Bread delivers cloud and open-source systems enabling **precise, versioned, and composable** updates—at the weight level—of LLMs. You can teach, refine, or update a model's weights just by describing what you want, in natural language, as easily as prompting.
 
 **Why?**
 - You shouldn't need a PhD in ML to train an AI.
